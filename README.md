@@ -1,4 +1,4 @@
-#Tugas_Pratikum2
+# Tugas_Pratikum2
 
 1.	Tugas Percobaan 1 Informasi finger  
 Ubahlah informasi finger pada komputer Anda. 

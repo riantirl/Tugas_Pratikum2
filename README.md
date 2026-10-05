@@ -1,4 +1,5 @@
-<img width="539" height="531" alt="Picture7" src="https://github.com/user-attachments/assets/2e9971c6-0452-4ab3-b2cd-6c6074ec2e19" /># Tugas_Pratikum2
+#Tugas_Pratikum2
+
 1.	Tugas Percobaan 1 Informasi finger  
 Ubahlah informasi finger pada komputer Anda. 
 
